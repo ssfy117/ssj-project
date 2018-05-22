@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<link href="images/style.css" rel="stylesheet" type="text/css" />
+<style>
+    .box{
+        box-shadow: #000000 7px 4px 15px -5px inset;
+        width: 100px;
+        height: 100px;
+    }
+     .b{color:red;}
+</style>
+<div class="box">DIY盒子内阴影</div>
+<div id="a" ><div class="b">小红是一个<span>胆小如鼠</span>的女孩</div></div>
+<br>
+<div class="b">小红是一个<span>胆小如鼠</span>的女孩</div>
+
+<p style="white-space: pre">丧 心 病 狂 </p>
+</body>
+</html>
